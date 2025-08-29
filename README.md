@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![Profile Banner](https://github.com/SrinjoyeeDey/SrinjoyeeDey/blob/master/my_banner_SrinjoyeeDey.jpg)
+<p align="center">
+  <img src="https://github.com/SrinjoyeeDey/SrinjoyeeDey/blob/master/my_banner_SrinjoyeeDey.jpg" alt="Profile Banner" width="800" height="200">
+</p>
+<!-- ![Profile Banner](https://github.com/SrinjoyeeDey/SrinjoyeeDey/blob/master/my_banner_SrinjoyeeDey.jpg) -->
 
 <h1 align="center">Hey, I'm Srinjoyee Dey 👋</h1>
 <p align="center">
