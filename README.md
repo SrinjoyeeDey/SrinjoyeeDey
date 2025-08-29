@@ -44,11 +44,17 @@
 
 ---
 
-## 🌟 Featured Projects
 
-<!-- Add your favorite projects here -->
-- [Project Name 1](#) — Short description
-- [Project Name 2](#) — Short description
+## 🌟 Featured Projects  
+
+- [📚 Digital Library](#)  
+  A scalable online library system built with *MonstaX*, featuring user authentication, book search, categorization, and smooth UI for seamless digital reading.  
+
+- [🌧 Rain Alert System](https://github.com/SrinjoyeeDey/Twilio-Rain-Alert)  
+  A real-time *weather notification system* powered by *Python* and *Twilio API*, sending instant SMS alerts to users before rainfall.  
+
+- [🌍 NGO Website](https://github.com/SrinjoyeeDey/HelpingHands)  
+  A responsive website for an NGO built using *MonstaX*, designed to manage volunteers, donations, and outreach programs with modern UI/UX.
 
 ---
 
@@ -65,8 +71,8 @@
 
 <p align="left">
   <a href="www.linkedin.com/in/srinjoyee-dey"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/SrinjoyeeDey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-24292F?logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/SrinjoyeeDey"><img src="https://img.shields.io/badge/Portfolio-24292F?logo=github&logoColor=white"></a>
 </p>
 
 ---
