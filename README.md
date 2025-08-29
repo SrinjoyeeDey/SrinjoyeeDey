@@ -72,8 +72,8 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/srinjoyee-dey"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/srinjoyee-dey"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Tinnii_dey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
   <a href="https://github.com/SrinjoyeeDey"><img src="https://img.shields.io/badge/Portfolio-24292F?logo=github&logoColor=white"></a>
 </p>
 
