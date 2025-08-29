@@ -50,13 +50,13 @@
 ## 🌟 Featured Projects  
 
 - [📚 Digital Library](#)  
-  A scalable online library system built with *MonstaX*, featuring user authentication, book search, categorization, and smooth UI for seamless digital reading.  
+  A scalable online library system built with *MERN Stack*, featuring user authentication, book search, categorization, and smooth UI for seamless digital reading.  
 
 - [🌧 Rain Alert System](https://github.com/SrinjoyeeDey/Twilio-Rain-Alert)  
   A real-time *weather notification system* powered by *Python* and *Twilio API*, sending instant SMS alerts to users before rainfall.  
 
 - [🌍 NGO Website](https://github.com/SrinjoyeeDey/HelpingHands)  
-  A responsive website for an NGO built using *MonstaX*, designed to manage volunteers, donations, and outreach programs with modern UI/UX.
+  A responsive website for an NGO built using *MERN Stack*, designed to manage volunteers, donations, and outreach programs with modern UI/UX.
 
 ---
 
