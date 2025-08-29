@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://github.com/SrinjoyeeDey/SrinjoyeeDey/blob/master/my_banner_SrinjoyeeDey.jpg" alt="Profile Banner" width="900">
+  <img src="https://github.com/SrinjoyeeDey/SrinjoyeeDey/blob/master/my_banner_SrinjoyeeDey.jpg" alt="Profile Banner" style="width: 100%; max-width: 600px; height: auto; display: block; margin: auto; border-radius: 12px;">
 </p>
 
 <h1 align="center">Hey, I'm Srinjoyee Dey 👋</h1>
