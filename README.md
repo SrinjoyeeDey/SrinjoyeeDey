@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Profile Banner]() <!-- Replace with your actual banner URL -->
+![Profile Banner](https://github.com/SrinjoyeeDey/SrinjoyeeDey/blob/master/my_banner_SrinjoyeeDey.jpg)
 
 <h1 align="center">Hey, I'm Srinjoyee Dey 👋</h1>
 <p align="center">
