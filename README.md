@@ -1,5 +1,7 @@
 <!-- Srinjoyee's GitHub Profile README -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Srinjoyee%20Dey&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20|%20GSSoC%20%26%20Hacktoberfest%20|%20Web%20Dev%20Enthusiast&descAlignY=55&descAlign=50)
+
 <h1 align="center">Hi 👋, I'm Srinjoyee Dey</h1>
 <h3 align="center">Full Stack Developer | Open Source Contributor | AI & ML Enthusiast</h3>
 
