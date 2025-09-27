@@ -45,8 +45,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/ShadCN-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AN-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-10B981?style=for-the-badge" />
 </p>
 
 ---
