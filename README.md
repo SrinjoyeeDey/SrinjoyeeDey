@@ -1,10 +1,6 @@
 <!-- Top Animated Typing Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend:+JS,+Tailwind,+React,+Next.js;Backend:+Node.js,+Express.js;Database:+MongoDB;Tools:+Git,+GitHub,+Postman,+VS+Code;UI+Libraries:+ShadCN,+React-Bits;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://github.com/SrinjoyeeDey/SrinjoyeeDey/blob/master/my_banner_SrinjoyeeDey.jpg" alt="Profile Banner" style="width: 100%; max-width: 600px; height:400px; display: block; margin: auto; border-radius: 12px;">
-</p>
 
 <h1 align="center">Hi 👋, I'm Srinjoyee Dey</h1>
 <h3 align="center">Full Stack Developer | Open Source Contributor | AI & ML Enthusiast</h3>
@@ -76,8 +72,8 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrinjoyeeDey&bg_color=000000&color=0066ff&line=0066ff&point=ffffff&area=true&hide_border=true&radius=16&theme=react-dark" alt="Contribution Activity Graph" />
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrinjoyeeDey&bg_color=fff0f6&color=ff69b4&line=ff1493&point=ffb6c1&area=true&hide_border=true&radius=16&theme=tokyo_night_pink" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -92,30 +88,29 @@
 ---
 
 ### 🌐 Connect with Me
+
 <p align="center">
-  <span style="margin-right: 20px;">
-    <a href="https://www.linkedin.com/in/srinjoyee-dey">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="65" />
-    </a>
-  </span>
-  <span style="margin-right: 20px;">
-    <a href="https://x.com/Tinnii_dey">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="65" />
-    </a>
-  </span>
-  <span style="margin-right: 20px;">
-    <a href="https://github.com/SrinjoyeeDey">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="65" />
-    </a>
-  </span>
-  <span>
-    <a href="mailto:deysrinjoyee28@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="65" />
-    </a>
-  </span>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/srinjoyee-dey" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="65" style="margin: 20px; transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/Tinnii_dey" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="65" style="margin: 20px; transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/SrinjoyeeDey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="65" style="margin: 20px; transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:deysrinjoyee28@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="65" style="margin: 20px; transform: scale(1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.15)'" onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </p>
 
----
 
 ### 🔥 Fun Quotes & Current Focus
 
@@ -127,3 +122,4 @@
   <i>“Keep exploring, keep learning.”</i>
 </p>
 
+---
