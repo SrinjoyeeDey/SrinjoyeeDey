@@ -1,6 +1,4 @@
-<!-- Srinjoyee's GitHub Profile README -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Srinjoyee%20Dey&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Open%20Source%20Contributor%20|%20GSSoC%20%26%20Hacktoberfest%20|%20Web%20Dev%20Enthusiast&descAlignY=55&descAlign=50)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Frontend:+HTML%2C+CSS%2C+React;Backend:+Node.js%2C+Express.js;Database:+MongoDB;Tools:+Git%2C+GitHub%2C+Postman;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Srinjoyee Dey</h1>
 <h3 align="center">Full Stack Developer | Open Source Contributor | AI & ML Enthusiast</h3>
