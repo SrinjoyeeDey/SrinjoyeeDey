@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Frontend:+HTML%2C+CSS%2C+React;Backend:+Node.js%2C+Express.js;Database:+MongoDB;Tools:+Git%2C+GitHub%2C+Postman;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
+<!-- Animated Typing Skills (Top) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend:+JS,+Tailwind,+React,+Next.js;Backend:+Node.js,+Express.js;Database:+MongoDB;Tools:+Git,+GitHub,+Postman,+VS+Code;UI+Libraries:+ShadCN,+React-Bits;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Srinjoyee Dey</h1>
 <h3 align="center">Full Stack Developer | Open Source Contributor | AI & ML Enthusiast</h3>
@@ -16,28 +17,15 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Learning *DSA, Full Stack Web Development, AI & ML*  
-- 💻 Open Source Contributor: *GSSoC & Hacktoberfest*  
-- 🎯 Passionate about building impactful projects and solving real-world problems
-- 🐍 Skilled in Python, learning Java for DSA.
-- 🤖 Diving into Machine Learning and Natural Language Processing.
-- 🎵 Music lover and always curious to explore new fields.
----
-
-### 💫 Circular Spinning Skills (Orbit Style)
-
-![Circular Skills](https://capsule-render.vercel.app/api?type=circle&height=300&section=header&text=HTML,CSS,React,Node.js,MongoDB,Git,GitHub,Postman&desc=Skills+Orbiting&color=gradient)
-
+- 🌱 Learning DSA, Full Stack Web Development, AI & ML  
+- 💻 Open Source Contributor: GSSoC & Hacktoberfest  
+- 🎯 Passionate about building impactful projects and solving real-world problems  
+- 🐍 Skilled in Python, learning Java for DSA  
+- 🤖 Diving into Machine Learning and Natural Language Processing  
+- 🎵 Music lover and always curious to explore new fields  
 
 ---
 
-### 💻 Skills Typing Animation
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=50&color=00FF00&width=500&lines=HTML;CSS;Bootstrap;Tailwind+CSS;React;Node.js;Express.js;MongoDB;Git;GitHub;Postman;VS+Code" alt="Skills Typing Animation">
-</p>
-
----
 
 ### 🛠 Tech Stack
 
@@ -48,7 +36,8 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -63,37 +52,38 @@
   <!-- Other Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadCN-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AN-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-10B981?style=for-the-badge" />
 </p>
 
----
 
-### 📊 GitHub Stats
+### 🏆 Projects Showcase
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrinjoyeeDey&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinjoyeeDey&layout=compact&theme=radical"/>
+  <img src="project1.png" width="200" height="120" />
+  <img src="project2.png" width="200" height="120" />
+  <img src="project3.png" width="200" height="120" />
+  <img src="project4.png" width="200" height="120" />
 </p>
+
+*(Replace project1.png, etc. with your actual project images. All images will have the same height & width and stay in one line.)*
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/srinjoyee-dey"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/Tinnii_dey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/SrinjoyeeDey"><img src="https://img.shields.io/badge/Portfolio-24292F?logo=github&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/srinjoyee-dey"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=35&logoHeight=35" height="55" /></a>
+  <a href="https://x.com/Tinnii_dey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=35&logoHeight=35" height="55" /></a>
+  <a href="https://github.com/SrinjoyeeDey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=35&logoHeight=35" height="55" /></a>
+  <a href="mailto:srinjoyee@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=35&logoHeight=35" height="55" /></a>
 </p>
 
 ---
 
 ### 🔥 Fun Quotes & Current Focus
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=600&lines=“Code+is+like+humor...;When+you+have+to+explain+it,+it's+bad.”;“Currently+Learning:+DSA,+React,+Node,+ML”"/>
-</p>
-
----
-
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Cool Animation" width="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=600&lines=%22Code+is+like+humor...%22;%22When+you+have+to+explain+it,+it's+bad.%22;%22Currently+Learning:+DSA,+React,+Next.js,+Node,+ML%22" alt="Fun Quotes Typing"/>
 </p>
