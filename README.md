@@ -18,8 +18,10 @@
 ### 🌟 About Me
 - 🌱 Learning *DSA, Full Stack Web Development, AI & ML*  
 - 💻 Open Source Contributor: *GSSoC & Hacktoberfest*  
-- 🎯 Passionate about building impactful projects and solving real-world problems  
-
+- 🎯 Passionate about building impactful projects and solving real-world problems
+- 🐍 Skilled in Python, learning Java for DSA.
+- 🤖 Diving into Machine Learning and Natural Language Processing.
+- 🎵 Music lover and always curious to explore new fields.
 ---
 
 ### 💫 Circular Spinning Skills (Orbit Style)
@@ -76,11 +78,10 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/SrinjoyeeDey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:srinjoyee@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/Srinjoyee" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://github.com/SrinjoyeeDey" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/srinjoyee-dey"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/Tinnii_dey"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/SrinjoyeeDey"><img src="https://img.shields.io/badge/Portfolio-24292F?logo=github&logoColor=white"></a>
 </p>
 
 ---
@@ -92,14 +93,6 @@
 
 ---
 
-### 🏆 Featured Projects
-<p align="center">
-  <a href="https://github.com/SrinjoyeeDey/WeatherApp"><img src="https://img.shields.io/badge/WeatherApp-React-blue?style=for-the-badge"/></a>
-  <a href="https://github.com/SrinjoyeeDey/Higher-Lower-Game"><img src="https://img.shields.io/badge/Higher-Lower-Game-Python-green?style=for-the-badge"/></a>
-  <a href="https://github.com/SrinjoyeeDey/WomenSafetyApp"><img src="https://img.shields.io/badge/WomenSafetyApp-FullStack-red?style=for-the-badge"/></a>
-</p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Cool Animation" width="300"/>
