@@ -73,8 +73,9 @@
 ## 📈 Contribution Graph
 
   <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrinjoyeeDey&bg_color=fff0f6&color=ff69b4&line=ff1493&point=ffb6c1&area=true&hide_border=true&radius=16&theme=tokyo_night_pink" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrinjoyeeDey&bg_color=000000&color=ff69b4&line=ff1493&point=ffb6c1&area=true&hide_border=true&radius=16&theme=tokyo_night" alt="Contribution Activity Graph" />
 </p>
+
 
 ---
 
