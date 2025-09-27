@@ -24,11 +24,8 @@
 
 ### 💫 Circular Spinning Skills (Orbit Style)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fnUkgWJxHqR2q/giphy.gif" alt="Spinning Skills" width="300"/>
-  <br>
-  (Skills orbiting profile picture: HTML, CSS, Bootstrap, Tailwind CSS, React, Node.js, Express.js, MongoDB, Git, GitHub, Postman, VS Code)
-</p>
+![Circular Skills](https://capsule-render.vercel.app/api?type=circle&height=300&section=header&text=HTML,CSS,React,Node.js,MongoDB,Git,GitHub,Postman&desc=Skills+Orbiting&color=gradient)
+
 
 ---
 
