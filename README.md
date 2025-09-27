@@ -1,6 +1,11 @@
 <!-- Top Animated Typing Skills -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Frontend:+JS,+Tailwind,+React,+Next.js;Backend:+Node.js,+Express.js;Database:+MongoDB;Tools:+Git,+GitHub,+Postman,+VS+Code;UI+Libraries:+ShadCN,+React-Bits;Open+Source+Contributor+🚀)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1736d9b-02b8-4a31-8cc5-fa53f5496443" width="150" />
+  <br>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Srinjoyee Dey</h1>
 <h3 align="center">Full Stack Developer | Open Source Contributor | AI & ML Enthusiast</h3>
